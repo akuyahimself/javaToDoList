@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">JavaToDoList</string>
+    <string name="add_new_note">Add note</string>
+    <string name="submit">Submit\n</string>
+    <string name="high">high</string>
+    <string name="medium">medium\n</string>
+    <string name="low">low</string>
+    <string name="name">Name</string>
+</resources>
